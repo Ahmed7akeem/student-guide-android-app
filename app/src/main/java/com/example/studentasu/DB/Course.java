@@ -30,33 +30,22 @@ public class Course {
         return code;
     }
 
-    public void setCode(String code) {
-        this.code = code;
-    }
 
     public String getDrname() {
         return drname;
     }
 
-    public void setDrname(String drname) {
-        this.drname = drname;
-    }
 
     public String getSemester() {
         return semester;
     }
 
-    public void setSemester(String semester) {
-        this.semester = semester;
-    }
+
 
     public int getCredithour() {
         return credithour;
     }
 
-    public void setCredithour(int credithour) {
-        this.credithour = credithour;
-    }
 
     public int getLevel() {
         return level;
